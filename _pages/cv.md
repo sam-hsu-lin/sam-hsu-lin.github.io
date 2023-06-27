@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,28 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+See [here](sam-hsu-lin.github.io/files/Hsu_Lin_CV.pdf.lnk) for my complete CV.
+
 Education
 ======
-* Economics, B.A. (with Highest Distinction) and Applied Mathematics, B.S., *cum laude*, UC San Diego, 2023
+* B.A. in Economics (with Highest Distinction) and B.S. in Applied Mathematics, *cum laude*, UC San Diego, 2023
 
 Work experience
 ======
-* 2022-23: Research Assistant, UCLA
+* 2022-23: Research Assistant, Department of Economics, UCLA
+* 2021-23: Teaching Assistant, Department of Mathematics, UC San Diego
+* Summer 2021: Research Assistant, Department of Economics, UC San Diego
 
-* 2021-23: Teaching Assistant, UC San Diego
-  * 
-
-<!-- Publications
+Papers
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
-<!-- Talks
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 <!-- Teaching
 ======
