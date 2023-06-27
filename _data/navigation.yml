@@ -12,8 +12,8 @@ main:
   - title: "CV"
     url: /files/Hsu_Lin_CV.pdf
     
-  # - title: "Personal"
-  #   url: /misc/
+  - title: "Personal"
+    url: /misc/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
