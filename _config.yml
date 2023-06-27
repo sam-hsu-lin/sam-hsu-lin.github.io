@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Sam Lin"
-  avatar           : "profile.png"
-  bio              : "I am an economist with rigorous training in applied mathematics. My research interests are in using econometric and experimental techniques to study the socioeconomic conditions of marginalized groups."
+  avatar           : "profile.jpg"
+  bio              : "I am an economist and applied mathematician. My interests to use statistical and experimental tools to study socioeconomic equity and opportunity."
   location         : "La Jolla, CA"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sam-hsu-lin"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
