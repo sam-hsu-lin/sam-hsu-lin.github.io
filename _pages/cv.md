@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See [here](sam-hsu-lin.github.io/files/Hsu_Lin_CV.pdf.lnk) for my complete CV.
+See [here](https://sam-hsu-lin.github.io/files/Hsu_Lin_CV.pdf) for my complete CV.
 
 Education
 ======
