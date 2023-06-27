@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Sam Lin"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Sam Lin"
+description              : &description "Sam Lin's personal website"
 url                      : https://sam-hsu-lin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sam-hsu-lin/sam-hsu-lin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sam Lin"
   avatar           : "profile.jpg"
-  bio              : "I am an economist and applied mathematician. My interests to use statistical and experimental tools to study socioeconomic equity and opportunity."
+  bio              : "I am an economist and applied mathematician, and I am interested in using statistical and experimental tools to study socioeconomic equity and opportunity."
   location         : "La Jolla, CA"
   employer         :
   pubmed           : 
