@@ -3,7 +3,7 @@ title: "Returns to Education in Asian Americans"
 collection: publications
 permalink: /publication/
 excerpt: ''
-date: 2022
+date: 2022-03
 venue: ''
 paperurl: 'http://sam-hsu-lin.github.io/files/Hsu_Lin_ugThesis.pdf'
 citation: 'Lin, Hsu. (2022). &quot;Returns to Education in Asian Americans.&quot; <i>Undergraduate thesis 1</i>.'
