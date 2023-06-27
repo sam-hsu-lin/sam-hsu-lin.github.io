@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sam's Cool We"
+title: "Sam's Cool Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
