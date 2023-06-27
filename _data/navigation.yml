@@ -3,22 +3,21 @@ main:
   - title: "Papers"
     url: /papers/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /files/Hsu_Lin_CV.pdf
     
-  - title: "Fun"
-    url: /misc/
+  # - title: "Personal"
+  #   url: /misc/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  
     
   # - title: "Guide"
   #   url: /markdown/

@@ -17,7 +17,7 @@ repository               : "sam-hsu-lin/sam-hsu-lin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sam Lin"
   avatar           : "profile.jpg"
-  bio              : "I am an economist and applied mathematician, and I am interested in using statistical and experimental tools to study socioeconomic equity and opportunity."
+  bio              : ""
   location         : "La Jolla, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : hlin0413@gmail.com
   researchgate     :  
   uri              :
   bitbucket        :
