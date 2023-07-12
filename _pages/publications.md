@@ -5,8 +5,7 @@ permalink: /papers/
 author_profile: true
 redirect_from:
   - /publications/
-  - /publications/
-
+  
 ---
 
 <!-- {% if author.googlescholar %}
