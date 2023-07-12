@@ -72,11 +72,7 @@ social:
 
 
 # Analytics
-analytics:
-  provider               :  "custom" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : G-92ZXM267W5
-
+google_analytics: G-92ZXM267W5
 
 # Site Author
 author:
