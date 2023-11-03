@@ -9,7 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Welcome the front page of my website (work in progress)! 
+Welcome the front page of my website! 
 
 I am a research assistant at the UCLA Anderson School of Management working with Professors Jennifer Kao, Chris Poliquin, and Melanie Wasserman.
 
