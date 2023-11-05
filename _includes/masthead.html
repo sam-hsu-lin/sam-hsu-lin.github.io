@@ -13,7 +13,14 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% if link.url contains ".pdf" %}
+            {% assign target = "_blank" %}
+            {% assign rel = "noopener noreferrer" %}
+          {% else %}
+            {% assign target = "" %}
+            {% assign rel = "" %}
+          {% endif %}
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="{{ target }}" rel="{{ rel }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
